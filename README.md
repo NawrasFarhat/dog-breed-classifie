@@ -71,8 +71,5 @@ This project was developed by editing the main file: `check_images.py`.
 
 ---
 
-##  Author
 
-This project was completed as part of the AI Programming with Python Nanodegree.  
-Customized and improved for portfolio and GitHub presentation.
 
